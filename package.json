@@ -1,8 +1,8 @@
 {
   "name": "mr-pinny-portal",
-  "homepage": "www.pinnyonsol.com",
-  "version": "0.1.0",
-  "private": true,
+  "homepage": "https://joaofallbuquerque.github.io/MrPinny",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@babel/core": "^7.24.5",
     "@babel/plugin-transform-react-jsx": "^7.23.4",
