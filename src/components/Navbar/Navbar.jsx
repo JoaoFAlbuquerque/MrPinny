@@ -10,7 +10,7 @@ export const Navbar = (props) => {
     { name: "About", ref: props.aboutRef },
     { name: "Tokenomics", ref: props.tokenomicsRef },
     { name: "How to buy", ref: props.howToBuyRef },
-    { name: "Meme generator (comming soon)" },
+    { name: "Meme generator (coming soon)" },
   ];
 
   const goTo = (item) => {
